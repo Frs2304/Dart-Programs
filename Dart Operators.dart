@@ -2,14 +2,14 @@ void main() {
   print("Example of Assignment operators");
   var n1 = 10;
   var n2 = 5;
-  // addition
+  // addition opration
   print("n1+n2 = ${n1 + n2}");
-  // substraction
+  // substraction opration
   print("n1-n2 = ${n1 - n2}");
-  // multiplication
+  // multiplication opration
   print("n1*n2 = ${n1 * n2}");
-  // division
+  // division opration
   print("n1/=n2 = ${n1 / n2}");
-  // modulo
+  // modulo opration
   print("n1%n2 = ${n1 % n2}");
 }

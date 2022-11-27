@@ -4,6 +4,6 @@ void main() {
   first.remove(2);
   print(first);
 // Empty Funtion to check whether the list is empty or not
-// returns true or false
+// returns true if list is empty else returns false
   print(first.isEmpty);
 }

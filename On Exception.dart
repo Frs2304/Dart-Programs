@@ -5,7 +5,9 @@ void main() {
 
   try {
     res = x ~/ y;
-  } on IntegerDivisionByZeroException catch (E) {
+  }
+  // on exception 
+  on IntegerDivisionByZeroException catch (E) {
     print(E);
   }
 }

@@ -18,3 +18,4 @@ void main() {
       break;
   }
 }
+// Here what will be the value of n,that number of case will be executed

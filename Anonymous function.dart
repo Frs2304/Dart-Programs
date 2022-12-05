@@ -3,5 +3,5 @@ void main() {
   print("Example of anonymous function");
   list.forEach((item) {
     print('${list.indexOf(item)}:$item');
-  });
+  });  
 }

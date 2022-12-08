@@ -7,7 +7,7 @@ class Mobile {
     modelname = modelname;
     man_year = 2020;
     print(
-        "Mobile's model name is: ${modelname}, and the manufacture year is: ${man_year}");
+        "Mobile's model name is: ${modelname}, and the manufacture year is: ${man_year}");  
   }
 }
 

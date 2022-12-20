@@ -16,3 +16,4 @@ void main() {
   // dynamic keyword automatically detects the input type
   dynamic name = 8;
 }
+  

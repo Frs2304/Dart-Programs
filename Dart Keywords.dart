@@ -2,7 +2,7 @@ void main() {
 // var keyword
   // var keyword is used to decalare numbers
   var a1 = 5;
-  var a2 = 6;
+  var a2 = 6;  
   print(a1 + a2);
   // prints output i.e. 11
 

@@ -1,5 +1,5 @@
 # Dart Programs.
-My very own Dart program bootcamp.
+My very own Dart programming bootcamp.
 
 This Repository contains Basic to Advance Dart programs.
 

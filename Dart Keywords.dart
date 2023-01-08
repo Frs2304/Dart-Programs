@@ -5,7 +5,6 @@ void main() {
   print(a1 + a2);
   // prints output i.e. 11
 
-// int keyword
   // int keyword stores integer
   int a = 2;
   int b = 3;

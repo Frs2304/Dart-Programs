@@ -1,5 +1,4 @@
 void main() {
-// var keyword
   // var keyword is used to decalare numbers
   var a1 = 5;
   var a2 = 6;  

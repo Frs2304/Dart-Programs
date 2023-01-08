@@ -1,5 +1,4 @@
 void main() {
-  // define a variable
   var n = 35;
   // if statement checks the given condition
   if (n < 40) {

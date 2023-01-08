@@ -12,8 +12,8 @@ class Student {
 }  
   
 void main() {  
-   
-  Student std1 = new Student();  // Creating instances of student class   
+  // Creating instances of student class
+  Student std1 = new Student();
   Student std2 = new Student();  
   // Assigning value of static variable using class name   
   Student.stdBranch = "Computer Science";  

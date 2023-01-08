@@ -10,8 +10,7 @@ void main() {
   int b = 3;
   print(a + b);
 
-// dynamic keyword
-  // dynamic keyword automatically detects the input type
+  // dynamic keyword - it automatically detects the input type
   dynamic name = 8;
 }
   

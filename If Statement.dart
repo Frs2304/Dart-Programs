@@ -4,6 +4,5 @@ void main() {
   // if statement checks the given condition
   if (n < 40) {
     print("The number is smaller than 40");
-  }
-  ;
+  };
 }

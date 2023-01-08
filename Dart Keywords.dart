@@ -1,5 +1,5 @@
 void main() {
-  // var keyword- it is used to decalare numbers
+  // var keyword- it is used to decalare variables
   var a1 = 5;
   var a2 = 6;  
   print(a1 + a2);

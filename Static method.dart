@@ -1,5 +1,6 @@
 class Student {  
-   static String stdBranch;  // Declaring static variable  
+   // Declaring static variable  
+   static String stdBranch;  
    String stdName;  
    int roll_num;  
      

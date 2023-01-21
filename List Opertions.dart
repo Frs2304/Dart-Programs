@@ -1,4 +1,4 @@
-void main(){
+void main() {
   List first = [1, 2, 3, 4, 5];
 // Remove operation
   first.remove(2);

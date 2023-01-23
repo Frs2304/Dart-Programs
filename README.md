@@ -39,4 +39,4 @@ Please adhere to this project's `code of conduct`.
 
 ## Tech Stack
 
-**Client:** Dart
+**Client:** Dart.

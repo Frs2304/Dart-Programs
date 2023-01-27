@@ -3,6 +3,7 @@ class Employee {
     print("I am working as an engineer");
   }
 }
+
 // Defining interface by implanting another class
 class Engineer implements Employee {
   void display() {

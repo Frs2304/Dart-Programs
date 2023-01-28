@@ -4,7 +4,8 @@ void main() {
   int res;
   try {
     res = x ~/ y;
-  }
+  } 
+  // catches error
   catch (E) {
     print(E);
   }

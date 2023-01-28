@@ -20,10 +20,10 @@ void main() {
   Student.stdBranch = "Computer Science";  
     
   std1.stdName = "Ben Cutting";  
-  std1.roll_num = 90013  
+  std1.roll_num = 90013;  
   std1.showStdInfo();  
   
   std2.stdName = "Peter Handscomb";  
-  std2.roll_num = 90014  
+  std2.roll_num = 90014;  
   std2.showStdInfo();  
 }  

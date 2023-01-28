@@ -1,6 +1,6 @@
 void main() {
   List first = [1, 2, 3, 4, 5];
-// Remove operation removes the element given in the input
+// Remove function
   first.remove(2);
   print(first);
 // Empty Funtion to check whether the list is empty or not

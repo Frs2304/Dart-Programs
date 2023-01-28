@@ -5,7 +5,8 @@ void main() {
   try {
     res = x ~/ y;
   } 
-  // catches error
+  
+  // It returns the built-in exception related to the occurring exception
   catch (E) {
     print(E);
   }

@@ -12,4 +12,4 @@ void main() {
   print('execution from main1');
   print('execution from main2');
   print('execution from main3');
-}
+};

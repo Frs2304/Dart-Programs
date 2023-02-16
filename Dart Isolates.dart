@@ -9,7 +9,7 @@ void main() {
   Isolate.spawn(sayhii, 'Hello!!');
   Isolate.spawn(sayhii, 'Whats up!!');
   Isolate.spawn(sayhii, 'Welcome!!');
-
+  // printing isolates
   print('execution from main1');
   print('execution from main2');
   print('execution from main3');

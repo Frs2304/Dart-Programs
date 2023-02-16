@@ -5,6 +5,7 @@ void sayhii(var msg) {
 }
 
 void main() {
+  // creating isolates
   Isolate.spawn(sayhii, 'Hello!!');
   Isolate.spawn(sayhii, 'Whats up!!');
   Isolate.spawn(sayhii, 'Welcome!!');

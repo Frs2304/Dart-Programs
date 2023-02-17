@@ -11,7 +11,7 @@ class Student {
   
       }  
 }  
-  
+
 void main() {  
   // Creating instances of student class
   Student std1 = new Student();

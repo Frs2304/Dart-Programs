@@ -4,7 +4,6 @@ import 'dart:isolate';
 void sayhii(var msg) {
   print('execution from sayhii ... the message is :${msg}');
 }
-
 void main() {
   // creating isolates
   Isolate.spawn(sayhii, 'Hello!!');

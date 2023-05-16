@@ -18,7 +18,7 @@ In this repository, you'll find a ograms that range from basic to advanced. The 
  
 
 
-**Client:** Dart.
 
-## IDE
+
+
 

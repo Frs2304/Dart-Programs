@@ -12,16 +12,13 @@ Dart is a programming language developed by Google that is designed for building
 
 ## Repository Contents
 
-In this repository, you'll find a variety of Dart programs that range from basic to advanced. The programs cover different topics such as data types, functions, control flow, object-oriented programming, and more. The programs are organized into folders based on their complexity level, making it easy to navigate through them.
+In this repository, you'll find a ograms that range from basic to advanced. The programs cover different topics such as data types, functions, control flow, object-oriented programming, and more. The programs are organized into folders based on their complexity level, making it easy to navigate through them.
 
-## Authors
+
  
-- [@Frs2304](https://www.github.com/Frs2304)
 
-## Tech Stack
 
 **Client:** Dart.
 
 ## IDE
 
-VS Code, Dartpad.

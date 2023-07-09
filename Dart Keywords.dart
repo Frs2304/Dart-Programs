@@ -12,5 +12,6 @@ void main() {
 
   // dynamic keyword - it automatically detects the input type
   dynamic name = 8;
+  print(name);
 }
   
